@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "radiona")(type "KiCad")(uri "/home/goran/projects/ulx4m-ls-github/footprints/logo/radiona.pretty")(options "")(descr ""))
+)
